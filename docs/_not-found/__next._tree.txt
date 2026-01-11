@@ -1,0 +1,2 @@
+:HL["/sintacks-calendar/_next/static/chunks/e18e1241265d2122.css","style"]
+0:{"buildId":"sAWbabY31kMvw7VuUIhdE","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"/_not-found","paramType":null,"paramKey":"/_not-found","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

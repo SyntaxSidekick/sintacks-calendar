@@ -2,10 +2,11 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   output: 'export',
+  distDir: 'docs',
   images: {
     unoptimized: true,
   },
-  basePath: process.env.NODE_ENV === 'production' ? '/sintacks-calendar' : '',
+  basePath: '/sintacks-calendar',
 };
 
 export default nextConfig;
