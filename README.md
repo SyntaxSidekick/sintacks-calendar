@@ -1,5 +1,22 @@
 # Sintacks Calendar
 
+```
+┌─────────────────────────────────────────────────────────────┐
+│  🚧  UNDER ACTIVE DEVELOPMENT  🚧                            │
+│                                                              │
+│  Status: MVP Complete → Production Polish In Progress       │
+│  Current Phase: Design System Integration & Feature Testing │
+│                                                              │
+│  ⚡ Latest Updates:                                          │
+│  • Integrated Sintacks Design System                        │
+│  • Enhanced UI components with branded theming              │
+│  • Added dark mode support                                  │
+│                                                              │
+│  📍 You are here: Functional but evolving                   │
+│  🎯 Destination: Production-ready calendar application      │
+└─────────────────────────────────────────────────────────────┘
+```
+
 > A modern, Google Calendar-style web application built for a senior-level portfolio
 
 ![Next.js](https://img.shields.io/badge/Next.js-15.1-black?logo=next.js)
